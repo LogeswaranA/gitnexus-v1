@@ -1,0 +1,2 @@
+gitnexus-web => npm run dev
+gitnexus -> npm run serve
